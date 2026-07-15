@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ResumeIQ_Report.pdf
+resume_report.pdf
+.streamlit/
