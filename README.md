@@ -1,4 +1,4 @@
-# 🤖 ResumeIQ AI
+# 📋 ResumeIQ AI
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -109,7 +109,11 @@ Generates a downloadable report containing:
 
 ```text
 AI_Resume_Analyzer/
-│
+├── screenshots/
+│   ├──Home.png
+│   ├──ATS_dashboard.png
+│   ├──AI_Assistant_suggestions.png
+│   ├──AI_generated_report.png
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -230,13 +234,27 @@ Professional PDF Report
 
 # 📸 Screenshots
 
-The following screenshots will be added after deployment:
+## 🏠 Home Page
 
-- Home Page
-- Resume Upload
-- ATS Dashboard
-- AI Assistant
-- PDF Report
+![Home Page](screenshots/Home.png)
+
+---
+
+## 📊 ATS Dashboard
+
+![ATS Dashboard](screenshots/ATS_dashboard.png)
+
+---
+
+## 🤖 AI Assistant
+
+![AI Assistant](screenshots/AI_Assistant_suggestions.png)
+
+---
+
+## 📄 PDF Report
+
+![PDF Report](screenshots/AI_generated_report.png)
 
 ---
 
