@@ -110,10 +110,10 @@ Generates a downloadable report containing:
 ```text
 AI_Resume_Analyzer/
 ├── screenshots/
-│   ├──Home.png
-│   ├──ATS_dashboard.png
-│   ├──AI_Assistant_suggestions.png
-│   ├──AI_generated_report.png
+│   ├── Home.png
+│   ├── ATS_dashboard.png
+│   ├── AI_Assistant_suggestions.png
+│   └── AI_generated_report.png
 │
 │
 ├── app.py
