@@ -114,6 +114,8 @@ AI_Resume_Analyzer/
 │   ├──ATS_dashboard.png
 │   ├──AI_Assistant_suggestions.png
 │   ├──AI_generated_report.png
+│
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -236,25 +238,25 @@ Professional PDF Report
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](Screenshots/Home.png)
 
 ---
 
 ## 📊 ATS Dashboard
 
-![ATS Dashboard](screenshots/ATS_dashboard.png)
+![ATS Dashboard](Screenshots/ATS_dashboard.png)
 
 ---
 
 ## 🤖 AI Assistant
 
-![AI Assistant](screenshots/AI_Assistant_suggestions.png)
+![AI Assistant](Screenshots/AI_Assistant_suggestions.png)
 
 ---
 
 ## 📄 PDF Report
 
-![PDF Report](screenshots/AI_generated_report.png)
+![PDF Report](Screenshots/AI_generated_report.png)
 
 ---
 
