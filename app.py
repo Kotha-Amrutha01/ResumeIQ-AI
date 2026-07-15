@@ -236,8 +236,6 @@ st.markdown("""
 
 AI-Powered Resume Analyzer
 
-<br><br>
-
 Made with ❤️ by <b>Amrutha Kotha</b>
 
 </div>
